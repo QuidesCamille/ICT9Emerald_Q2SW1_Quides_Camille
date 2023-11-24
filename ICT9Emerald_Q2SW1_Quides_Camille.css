@@ -1,0 +1,23 @@
+body 
+{background-color:lightyellow; background-image: url("pizzabanner3.jfif"); background-repeat: repeat-x;}
+
+#logo 
+{ text-align:center; }
+
+#decoration
+{text-align: left}
+
+h1 
+{text-align: center; font-variant: small-caps; color: burlywood; background-color: lightgoldenrodyellow;}
+
+#pizza..
+{ width:1000px; height: 1000px; }
+
+pre { text-align:center; }
+
+table { margin-left:auto; margin-right:auto; border-top: green; border-bottom: red; border-left: yellow; border-right:burlywood; }
+
+td{ text-align:center }
+
+
+
